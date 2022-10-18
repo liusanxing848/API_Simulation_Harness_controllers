@@ -1,0 +1,10 @@
+auth:
+    oauthEndpoint: x********
+    clientId: x********
+    oauth:
+        QA:
+            clientId: x*******
+            password: x*******
+        LOCAL:
+            clientId: x*******
+            password: x*******
